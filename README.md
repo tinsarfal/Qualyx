@@ -3,6 +3,8 @@
 Qualyx runs *Half-Life: Alyx* natively on standalone Meta Quest headsets. Builds
 are published on the [Releases](../../releases) page.
 
+Join our community on [Discord](https://discord.gg/E5VVNyQQX4) for support and discussion.
+
 Qualyx is experimental. It is developed and tested on Quest 3; Quest 2 support
 is less tested and uses reduced graphics settings.
 
