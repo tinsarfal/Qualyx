@@ -11,6 +11,25 @@ is less tested and uses reduced graphics settings.
 The release does not include Valve's game files. You need your own Steam copy
 of *Half-Life: Alyx*.
 
+## Quest: enable Positional time warp
+
+**Before playing, turn ON Quest Settings → Experimental → Positional time warp.**
+The Qualyx setup popup and launcher reminder include an **Open Quest settings**
+shortcut. Qualyx cannot enable or verify this system switch. If the shortcut
+does not open it, navigate there manually.
+
+New Quest installs default to **72 Hz + Headset timewarp + Half rate** at
+**60% render resolution**. The **36 FPS · 72 Hz display** preset uses the same
+path: targeting 36 fresh game frames and 36 app submissions per second, with the display
+at 72 Hz. Close Quest system panels after returning to the game.
+
+Updates preserve your chosen resolution. Users upgrading from the old enabled
+depth-reprojection checkbox get a migration popup with **Keep my old setting**
+to restore Qualyx depth. Pico users are not migrated and do not see the
+Quest-only controls. If your Quest software does not offer Positional time
+warp, ordinary rotational timewarp remains available, but the tested positional
+correction is unavailable.
+
 ## Requirements
 
 - A Meta Quest headset with Developer Mode enabled.
